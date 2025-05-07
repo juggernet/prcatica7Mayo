@@ -22,3 +22,30 @@ crea repositorio
 1. This is step 1.
 1. This is the next step.
 1. This is yet another step, the third.
+
+
+
+1. Set up your table and code blocks.
+1. Perform this step.
+
+   ![screen](https://experienceleague.adobe.com/docs/contributor/assets/adobe_standard_logo.png?lang=es)
+
+1. Make sure that your table looks like this:
+
+   | Hello | World |
+   |---|---|
+   | How | are you? |
+
+1. This is the fourth step.
+
+   >[!NOTE]
+   >
+   >This is note text.
+
+1. Do another step.
+
+
+
+
+![Adobe Logo](/docs/contributor/assets/adobe_standard_logo.png "Hover text")
+
