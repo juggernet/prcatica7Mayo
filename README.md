@@ -47,5 +47,5 @@ crea repositorio
 
 
 
-![Adobe Logo](/docs/contributor/assets/adobe_standard_logo.png "Hover text")
+![Upjr Logo](logo_upjr.png)
 
